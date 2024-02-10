@@ -194,7 +194,7 @@ h2 {
     position: relative;
 }
 .jumbotron::before {
-	background: rgba(0, 0, 0, 0.694);
+	background: rgba(0, 0, 0, 0.498);
 	position: absolute;
 	width: 100%;
 	height: 100%;
